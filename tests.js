@@ -3,8 +3,8 @@ var index = require("./index.js")
 if (index.name === "Susan") {
     console.log("The name is correct")
 } else {
-Expected: Susan, Received: Joe
-Expected: 70, Received: 74
+  
+}
 
 
 
